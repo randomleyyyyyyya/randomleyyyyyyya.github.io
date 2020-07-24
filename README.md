@@ -1,2 +1,4 @@
 # Personal Website
-(under construction, to be done this summer)
+Redirecting to [leiu05.github.io](leiu05.github.io).
+
+(Currently under construction)
